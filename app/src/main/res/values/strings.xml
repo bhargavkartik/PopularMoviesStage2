@@ -1,0 +1,40 @@
+<resources>
+    <!--TODO: Insert api key here-->
+    <string name="api_key">INSERT_YOUR_API_KEY_HERE</string>
+
+    <string name="content_description_poster">Poster</string>
+    <string name="app_name">Popular Movies Stage 2</string>
+    <string name="sort_movies_by_rating">Sort movies by rating</string>
+    <string name="sort_movies_by_popularity">Sort movies by popularity</string>
+    <string name="sort_mode">sort_mode</string>
+    <string name="sharedPrefFileName">com.kartik.popularmoviesstage2.PREFERENCE_FILE</string>
+    <string name="sortModeByPopularity">popular</string>
+    <string name="sortModeByRating">top_rated</string>
+    <string name="sortMode_favorite">favorite</string>
+
+    <string name="title_top_rated">Top rated movies</string>
+    <string name="title_popular">Popular movies</string>
+    <string name="title_favorite">Favorite movies</string>
+    <string name="loadingMovieListExceptionTag">LOAD_MOVIE_LIST_EXCEPTION</string>
+    <string name="locDbMovieID_extra">LocalDbmovieId</string>
+    <string name="movieID_extra">movieId</string>
+
+    <string name="description_background_picture">background picture</string>
+    <string name="description_foreground_picture">foreground picture</string>
+    <string name="PARCELABLE_EXCEPTION">PARCELABLE_EXCEPTION</string>
+    <string name="PICASSO_EXCEPTION">PICASSO_EXCEPTION</string>
+    <string name="Rating_tv">Rating</string>
+    <string name="IO_EXCEPTION">IOException</string>
+    <string name="JSON_EXCEPTION">JSONException</string>
+    <string name="PARSE_EXCEPTION">ParseException</string>
+
+    <string name="jsonNames_results">results</string>
+    <string name="jsonNames_id">id</string>
+    <string name="jsonNames_title">title</string>
+    <string name="jsonNames_poster_path">poster_path</string>
+    <string name="jsonNames_backdrop_path">backdrop_path</string>
+    <string name="jsonNames_overview">overview</string>
+    <string name="jsonNames_vote_average">vote_average</string>
+    <string name="jsonNames_release_date">release_date</string>
+
+</resources>
